@@ -9,16 +9,16 @@ D - 无经验且无自信
 
 | 知识点 | 能力 |
 | ---| ---|
-| **Java** | |
-| **Scala** | |
-| **Git** | |
-| **SQL** | |
-| **HTML** | |
-| **Javascript** | |
-| **CSS** | |
-| 任意ORM（hibernate, entity framework等） | |
-| Github或其他类似平台（gitlab, devops等） | |
-| DB设计 | |
-| 架构 | |
-| 网络安全 | |
-| 项目管理 | |
+| **Java** | A |
+| **Scala** | B |
+| **Git** | S |
+| **SQL** | A |
+| **HTML** | A |
+| **Javascript** | A |
+| **CSS** | A |
+| 任意ORM（hibernate, entity framework等） | S |
+| Github或其他类似平台（gitlab, devops等） | A |
+| DB设计 | B |
+| 架构 | A |
+| 网络安全 | C |
+| 项目管理 | C |
