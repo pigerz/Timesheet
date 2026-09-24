@@ -20,7 +20,10 @@ D - 无经验且无自信
 | Rest API | |
 | 任意ORM（hibernate, entity framework等） | |
 | Github或其他类似平台（gitlab, devops等） | |
+| 敏捷开发 | |
 | DB设计 | |
 | 架构 | |
+| 自动化测试 | |
 | 网络安全 | |
 | 项目管理 | |
+| 读写文档 | |
