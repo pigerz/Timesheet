@@ -16,6 +16,8 @@ D - 无经验且无自信
 | **HTML** | |
 | **Javascript** | |
 | **CSS** | |
+| MVC | |
+| Rest API | |
 | 任意ORM（hibernate, entity framework等） | |
 | Github或其他类似平台（gitlab, devops等） | |
 | DB设计 | |
